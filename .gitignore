@@ -1,8 +1,1 @@
-target/
-out/
-*.class
-.idea/
-*.iml
-.vscode/
-.DS_Store
-Thumbs.db
+target/out/*.class.idea/*.iml.vscode/.DS_StoreThumbs.db
